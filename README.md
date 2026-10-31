@@ -75,4 +75,8 @@ The main objective of this project is to improve fire safety awareness through i
 
 ---
 
+<img width="1060" height="899" alt="Screenshot 2026-10-27 131618" src="https://github.com/user-attachments/assets/92a17888-0386-4cb8-a3fe-790ede29a9e1" />
+<img width="1052" height="895" alt="Screenshot 2026-10-27 131631" src="https://github.com/user-attachments/assets/f5b38e31-2515-4e15-85fa-052928cc8acd" />
+
+
 ⭐ If you find this project interesting, consider giving this repository a star!
